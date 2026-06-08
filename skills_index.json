@@ -1,0 +1,57 @@
+{
+  "name": "pledge-skills",
+  "version": "1.0.0",
+  "description": "Comprehensive agent skills for Next.js, React, TypeScript, and Tailwind CSS.",
+  "repository": "https://github.com/mehdi-berel/pledge-skills",
+  "format": "skill-md",
+  "skills": [
+    {
+      "id": "nextjs",
+      "name": "Next.js Complete Reference",
+      "version": "16.2.7",
+      "description": "Next.js 16.2.7 with React 19.2 — App Router, Server Components, caching, deployment, and all modern patterns.",
+      "tags": ["nextjs", "react", "app-router", "server-components", "full-stack", "framework"],
+      "path": "skills/nextjs",
+      "entry": "skills/nextjs/SKILL.md",
+      "files": 34,
+      "lines": 6892,
+      "triggers": ["next.js", "nextjs", "app router", "server components", "turbopack", "next-auth", "parallel routes", "intercepted routes"]
+    },
+    {
+      "id": "react",
+      "name": "React Complete Reference",
+      "version": "19.x",
+      "description": "React 19 reference — hooks, concurrent features, Server Components, React Compiler, Suspense, and advanced patterns.",
+      "tags": ["react", "hooks", "jsx", "components", "frontend", "ui"],
+      "path": "skills/react",
+      "entry": "skills/react/SKILL.md",
+      "files": 15,
+      "lines": 2744,
+      "triggers": ["react", "hooks", "usestate", "useeffect", "jsx", "component", "suspense", "context", "memo", "ref"]
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript Complete Reference",
+      "version": "5.x",
+      "description": "TypeScript 5.x — types, generics, narrowing, TSConfig, JSX, decorators, declaration files, and migration.",
+      "tags": ["typescript", "types", "generics", "tsconfig", "compiler", "javascript"],
+      "path": "skills/typescript",
+      "entry": "skills/typescript/SKILL.md",
+      "files": 16,
+      "lines": 2371,
+      "triggers": ["typescript", "tsconfig", "types", "generics", "interface", "type guard", "narrowing", "declaration"]
+    },
+    {
+      "id": "tailwindcss",
+      "name": "Tailwind CSS Complete Reference",
+      "version": "4.x",
+      "description": "Tailwind CSS v4 — utility classes, responsive design, customization, v4 CSS-first config, and all utilities.",
+      "tags": ["tailwindcss", "css", "styling", "responsive", "design", "utility-classes"],
+      "path": "skills/tailwindcss",
+      "entry": "skills/tailwindcss/SKILL.md",
+      "files": 17,
+      "lines": 3092,
+      "triggers": ["tailwind", "tailwindcss", "utility classes", "css", "styling", "responsive", "flexbox", "grid", "dark mode"]
+    }
+  ]
+}

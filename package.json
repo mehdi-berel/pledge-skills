@@ -1,0 +1,36 @@
+{
+  "name": "pledge-skills",
+  "version": "1.0.0",
+  "description": "Installable GitHub library of comprehensive agent skills for Next.js, React, TypeScript, Tailwind CSS, and more.",
+  "main": "skills_index.json",
+  "bin": {
+    "pledge-skills": "./bin/cli.js"
+  },
+  "scripts": {
+    "postinstall": "node ./bin/postinstall.js"
+  },
+  "keywords": [
+    "skills",
+    "agent-skills",
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "claude",
+    "ai",
+    "cursor",
+    "codex"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/pledge-skills.git"
+  },
+  "files": [
+    "skills/",
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ]
+}
