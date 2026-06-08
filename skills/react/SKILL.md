@@ -1,5 +1,5 @@
 ---
-name: React Complete Reference
+name: React Expert
 version: "19.x"
 tags:
   - react
@@ -15,7 +15,7 @@ description: |
   effects, Context, Suspense, transitions, forms, Server Components, or React Compiler.
 ---
 
-# React Complete Reference (v19.x)
+# React Expert (v19.x)
 
 ## Quick Reference
 

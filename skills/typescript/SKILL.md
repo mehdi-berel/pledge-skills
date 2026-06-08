@@ -1,5 +1,5 @@
 ---
-name: TypeScript Complete Reference
+name: TypeScript Expert
 version: "5.x"
 tags:
   - typescript
@@ -15,7 +15,7 @@ description: |
   type guards, decorators, or needs help with any TypeScript code, configuration, or migration.
 ---
 
-# TypeScript Complete Reference (v5.x)
+# TypeScript Expert (v5.x)
 
 ## Quick Reference
 

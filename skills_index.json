@@ -7,7 +7,7 @@
   "skills": [
     {
       "id": "nextjs",
-      "name": "Next.js Complete Reference",
+      "name": "Next.js Expert",
       "version": "16.2.7",
       "description": "Next.js 16.2.7 with React 19.2 — App Router, Server Components, caching, deployment, and all modern patterns.",
       "tags": ["nextjs", "react", "app-router", "server-components", "full-stack", "framework"],
@@ -19,7 +19,7 @@
     },
     {
       "id": "react",
-      "name": "React Complete Reference",
+      "name": "React Expert",
       "version": "19.x",
       "description": "React 19 reference — hooks, concurrent features, Server Components, React Compiler, Suspense, and advanced patterns.",
       "tags": ["react", "hooks", "jsx", "components", "frontend", "ui"],
@@ -31,7 +31,7 @@
     },
     {
       "id": "typescript",
-      "name": "TypeScript Complete Reference",
+      "name": "TypeScript Expert",
       "version": "5.x",
       "description": "TypeScript 5.x — types, generics, narrowing, TSConfig, JSX, decorators, declaration files, and migration.",
       "tags": ["typescript", "types", "generics", "tsconfig", "compiler", "javascript"],
@@ -43,7 +43,7 @@
     },
     {
       "id": "tailwindcss",
-      "name": "Tailwind CSS Complete Reference",
+      "name": "Tailwind CSS Expert",
       "version": "4.x",
       "description": "Tailwind CSS v4 — utility classes, responsive design, customization, v4 CSS-first config, and all utilities.",
       "tags": ["tailwindcss", "css", "styling", "responsive", "design", "utility-classes"],

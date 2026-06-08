@@ -1,5 +1,5 @@
 ---
-name: Tailwind CSS Complete Reference
+name: Tailwind CSS Expert
 version: "4.x"
 tags:
   - tailwindcss
@@ -15,7 +15,7 @@ description: |
   custom themes, or needs help with any Tailwind-specific code, configuration, or design.
 ---
 
-# Tailwind CSS Complete Reference (v4.x)
+# Tailwind CSS Expert (v4.x)
 
 ## Quick Reference
 
